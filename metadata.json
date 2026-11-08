@@ -1,0 +1,6 @@
+{
+  "name": "Opendc — Minimalist Document & Notes Editor",
+  "description": "An uncluttered editorial workspace with direct visual formatting, per-draft Google Fonts, outline navigation, live metrics, autosave, and publication-ready exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
